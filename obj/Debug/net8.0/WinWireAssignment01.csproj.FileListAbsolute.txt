@@ -1,0 +1,14 @@
+C:\Users\arunn\source\repos\WinWireAssignment01\bin\Debug\net8.0\WinWireAssignment01.exe
+C:\Users\arunn\source\repos\WinWireAssignment01\bin\Debug\net8.0\WinWireAssignment01.deps.json
+C:\Users\arunn\source\repos\WinWireAssignment01\bin\Debug\net8.0\WinWireAssignment01.runtimeconfig.json
+C:\Users\arunn\source\repos\WinWireAssignment01\bin\Debug\net8.0\WinWireAssignment01.dll
+C:\Users\arunn\source\repos\WinWireAssignment01\bin\Debug\net8.0\WinWireAssignment01.pdb
+C:\Users\arunn\source\repos\WinWireAssignment01\obj\Debug\net8.0\WinWireAssignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arunn\source\repos\WinWireAssignment01\obj\Debug\net8.0\WinWireAssignment01.AssemblyInfoInputs.cache
+C:\Users\arunn\source\repos\WinWireAssignment01\obj\Debug\net8.0\WinWireAssignment01.AssemblyInfo.cs
+C:\Users\arunn\source\repos\WinWireAssignment01\obj\Debug\net8.0\WinWireAssignment01.csproj.CoreCompileInputs.cache
+C:\Users\arunn\source\repos\WinWireAssignment01\obj\Debug\net8.0\WinWireAssignment01.dll
+C:\Users\arunn\source\repos\WinWireAssignment01\obj\Debug\net8.0\refint\WinWireAssignment01.dll
+C:\Users\arunn\source\repos\WinWireAssignment01\obj\Debug\net8.0\WinWireAssignment01.pdb
+C:\Users\arunn\source\repos\WinWireAssignment01\obj\Debug\net8.0\WinWireAssignment01.genruntimeconfig.cache
+C:\Users\arunn\source\repos\WinWireAssignment01\obj\Debug\net8.0\ref\WinWireAssignment01.dll
